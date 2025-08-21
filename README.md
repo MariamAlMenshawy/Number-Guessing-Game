@@ -11,8 +11,8 @@ Build a number guessing game where:
 - Choose a difficulty level and guess the number.
 
 ## Technologies
-C++
-Visual Studio
+- C++
+- Visual Studio
 
 ## Created By 
 [Maryam Al Menshawy]  
