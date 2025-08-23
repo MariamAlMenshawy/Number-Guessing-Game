@@ -1,9 +1,9 @@
 # Number Guessing Game
 
 A simple console-based C++ game where you guess a random number based on difficulty level :
-- The program randomly selects a number between **1 and 100**
-- The player keeps guessing the number until they find the correct one
-- The program gives hints like **(Too high) or (Too low)**
+- The program randomly selects a number between **1 and 100**.
+- The player keeps guessing the number until they find the correct one.
+- The program gives hints like **(Too high) or (Too low)**.
 
 ## How to Run
 - Open the project in visual studio or any C++ IDE.
@@ -11,8 +11,8 @@ A simple console-based C++ game where you guess a random number based on difficu
 - Choose a difficulty level and guess the number.
 
 ## Technologies
-- C++
-- Visual Studio
-
+- **Language:** C++
+- **IDE:** Visual Studio
+  
 ## Created By 
 [Maryam Al Menshawy](https://github.com/MariamAlMenshawy) 
