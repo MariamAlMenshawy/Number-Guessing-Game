@@ -15,4 +15,4 @@ Build a number guessing game where:
 - Visual Studio
 
 ## Created By 
-[Maryam Al Menshawy]  
+[Maryam Al Menshawy](https://github.com/MariamAlMenshawy) 
